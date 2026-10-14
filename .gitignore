@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Raw and processed datasets
+data/raw/
+data/data_processed/
+data/svm_data/
+
+# Trained models
+models/
+
+# Generated evaluation results
+results/
+results_csv/
+
+# Logs and temporary files
+logs/
+*.log
+.DS_Store
+Thumbs.db
